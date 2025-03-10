@@ -38,3 +38,5 @@ Your flow is now configured. The flow will run at the times you entered in step 
 **Disclaimer:** Please ensure you implement error handling and regularly check that the flow is operating correctly and according to the scheduled times. This shared flow is provided without any guarantees of its functionality.
 
 This project is provided “as is” without any warranties or guarantees. The authors are not responsible for any damage or issues that may arise from using this code. Users are encouraged to review and test the code thoroughly before deploying it in a production environment. By using this code, you agree to these terms.
+
+**Disclaimer #2:** This code sample is provided AS IS without warranty of any kind, and should not be interpreted as an offer or commitment on the part of Microsoft, and Microsoft cannot guarantee the accuracy of any information presented. MICROSOFT MAKES NO WARRANTIES, EXPRESS OR IMPLIED, IN THIS CODE SAMPLE.
